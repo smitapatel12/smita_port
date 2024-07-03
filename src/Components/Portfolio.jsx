@@ -31,7 +31,7 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "Rock-Paper-Scissor Game ",
+    title: "Rock-Paper-Scissor Game",
     description:
       "Designed and implemented a Rock-Paper-Scissors game application, showcasing proficiency in front-end development technologies such as HTML, CSS, and JavaScript.",
     url: "https://smitapatel12.github.io/Rock-Paper-scissor-game/",

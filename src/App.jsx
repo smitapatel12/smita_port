@@ -25,7 +25,7 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Smita Patel",
-  title: "Web Designer & Content Creator",
+  title: "Web Designer & Coder",
   email: "spatel.mgs1206@gmail.com",
   gitHub: "https://github.com/smitapatel12",
   instagram: "",

@@ -29,33 +29,7 @@ const imageAltText = "desktop with books and laptop";
  * An array of objects that will be used to display for your project
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
-const projectList = [
-  {
-    title: "Rock-Paper-Scissor Game",
-    description:
-      "Designed and implemented a Rock-Paper-Scissors game application, showcasing proficiency in front-end development technologies such as HTML, CSS, and JavaScript.",
-    url: "https://smitapatel12.github.io/Rock-Paper-scissor-game/",
-  },
-  {
-    title: "Amazon-Clone",
-    description:
-      "Developed a polished Amazon clone site utilizing cutting-edge HTML and CSS methods; delivered a high-functionality platform that mirrored Amazon’s usability, increasing average user session time by 30% and conversion rates by 20%.",
-    url: "https://smitapatel12.github.io/Amazon_clone/",
-  },
-  {
-    title: "My Resume Site",
-    description:
-      "Created visually captivating online portfolios using HTML, CSS, and JavaScript, seamlessly integrating achievements, work experiences, certifications, and projects to showcase professional expertise with flair and functionality.",
-    url: "https://smitapatel12.github.io/Portfolio/",
-  },
-  {
-    title: "Blog-Site ",
-    description:
-      "Developed a captivating nature blog site using Bootstrap, integrating API to enhance user engagement and foster a deeper connection with the environment",
-    url: "https://smitapatel12.github.io/Blog-site/",
-  },
-];
-
+h
 const Portfolio = () => {
   return (
     <section className="padding" id="portfolio">

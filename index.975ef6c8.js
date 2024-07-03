@@ -27191,10 +27191,10 @@ const imageAltText = "purple and blue abstract background";
     "Frontend development",
     "Responsive design",
     "JavaScript programming",
-    "User interface design",
-    "Problem-solving",
     "C++ programming",
-    "Machine learning", 
+    "React framework",
+    "TailwindCSS",
+    "Problem-solving", 
 ];
 /**
  * Use this to give more information about what you are passionate about,
@@ -28761,7 +28761,7 @@ const imageAltText = "desktop with books and laptop";
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */ const projectList = [
     {
-        title: "Rock-Paper-Scissor Game ",
+        title: "Rock-Paper-Scissor Game",
         description: "Designed and implemented a Rock-Paper-Scissors game application, showcasing proficiency in front-end development technologies such as HTML, CSS, and JavaScript.",
         url: "https://smitapatel12.github.io/Rock-Paper-scissor-game/"
     },
@@ -28776,7 +28776,7 @@ const imageAltText = "desktop with books and laptop";
         url: "https://smitapatel12.github.io/Portfolio/"
     },
     {
-        title: "Blog-Site",
+        title: "Blog-Site ",
         description: "Developed a captivating nature blog site using Bootstrap, integrating API to enhance user engagement and foster a deeper connection with the environment",
         url: "https://smitapatel12.github.io/Blog-site/"
     }, 

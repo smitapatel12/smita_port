@@ -35,10 +35,10 @@ const skillsList = [
   "Frontend development",
   "Responsive design",
   "JavaScript programming",
-  "User interface design",
- "Problem-solving",
   "C++ programming",
-  "Machine learning",
+  "React framework",
+  "TailwindCSS",
+  "Problem-solving",
 ];
 
 /**

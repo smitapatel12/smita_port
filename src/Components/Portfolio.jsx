@@ -49,7 +49,7 @@ const projectList = [
     url: "https://smitapatel12.github.io/Portfolio/",
   },
   {
-    title: "Blog-Site",
+    title: "Blog-Site ",
     description:
       "Developed a captivating nature blog site using Bootstrap, integrating API to enhance user engagement and foster a deeper connection with the environment",
     url: "https://smitapatel12.github.io/Blog-site/",
